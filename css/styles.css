@@ -1,0 +1,11 @@
+.places-list li {
+  color: blue;
+  cursor: pointer;
+}
+.places-list li:hover {
+  text-decoration: underline;
+}
+
+#show-place{
+  display: none;
+}
