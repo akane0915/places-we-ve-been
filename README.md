@@ -10,8 +10,10 @@ This a a more detailed description of what the software does. Be specific and le
 ## Project Specs:
 | Behavior |  Input   |  Output  |
 |----------|:--------:|:--------:|
-|The program will provide a form for the user to enter a destination| Costa Rica | N/A |
-
+| The program will provide a form for the user to enter a destination | Costa Rica | N/A |
+| The program will handle different properties for each location | Arenal | N/A |
+| The program will display a list of all places entered by user | Costa Rica | Costa Rica |
+| The program will display location's properties when user clicks specific location | (click) Costa Rica | (Show) Costa Rica > Arenal |
 ## Known Bugs
 List known bugs or issues here
 ## Technologies Used
